@@ -1,0 +1,17 @@
+body.dark {
+    background-color: #1a1a1a;
+    /* A different dark background */
+    color: #e6e6e6;
+    /* A light text color */
+}
+
+body.dark h1 {
+    color: #f0f0f0;
+    /* Lighter H1 for .dark theme */
+}
+
+body.dark select {
+    background-color: #404040;
+    color: #e6e6e6;
+    border-color: #666666;
+}
