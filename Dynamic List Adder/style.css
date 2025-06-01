@@ -1,0 +1,83 @@
+body {
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    /* Align to top for longer lists */
+    min-height: 100vh;
+    margin: 0;
+    background-color: #f4f4f4;
+    padding-top: 20px;
+    /* Give some space at the top */
+}
+
+.container {
+    background-color: #fff;
+    padding: 20px 30px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 500px;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.input-area {
+    display: flex;
+    gap: 10px;
+    /* Space between input and button */
+    margin-bottom: 20px;
+}
+
+#item {
+    flex-grow: 1;
+    /* Input takes available space */
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+#add-item {
+    padding: 10px 15px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.2s ease;
+}
+
+#add-item:hover {
+    background-color: #0056b3;
+}
+
+#item-list {
+    list-style-type: none;
+    /* Remove default bullet points */
+    padding: 0;
+    margin: 0;
+}
+
+#item-list li {
+    background-color: #e9ecef;
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+    font-size: 16px;
+    color: #495057;
+}
+
+#item-list li:last-child {
+    border-bottom: none;
+    /* Remove border from the last item */
+}
+
+#item-list li:nth-child(odd) {
+    background-color: #f8f9fa;
+    /* Slightly different background for odd items */
+}

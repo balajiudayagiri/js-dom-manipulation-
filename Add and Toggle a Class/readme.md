@@ -1,4 +1,4 @@
-### ✅ **1. Add and Toggle a Class**
+### ✅ **Add and Toggle a Class**
 
 **Problem:**
 Create a button with the text “Toggle Dark Mode”. When clicked, it should toggle the `dark` class on the `body`.
@@ -11,4 +11,4 @@ Create a button with the text “Toggle Dark Mode”. When clicked, it should to
 // Your JS here
 ```
 
-⏱️ *Expected:* When clicked, body should add/remove the "dark" class.
+⏱️ _Expected:_ When clicked, body should add/remove the "dark" class.
