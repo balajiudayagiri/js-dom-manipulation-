@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Modal Popup with Close</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="app-container">
+      <h1>Modal Example</h1>
+      <p>Click the button to display the modal.</p>
+      <button id="show-modal">Show Modal</button>
+    </div>
+
+    <!-- Modal Structure from Problem -->
+    <div id="modal" class="modal-overlay" style="display: none">
+      <div id="modal-content" class="modal-dialog">
+        <h2>Modal Title</h2>
+        <p>This is a modal. You can put any HTML content here.</p>
+        <button id="close-modal">Close</button>
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
