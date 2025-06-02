@@ -80,56 +80,6 @@ graph TD
 
 ---
 
-## 🧪 Closure Bug with `var` in Loops
-
-```mermaid
-sequenceDiagram
-  participant Loop (i)
-  participant Timer
-  participant Console
-
-  Loop->>Timer: setTimeout(() => console.log(i))
-  Timer-->>Console: Logs 3, 3, 3 (after loop ends)
-```
-
-🔍 **Fix** with `let`:
-
-* Each loop iteration gets its **own scope** for `let i`.
-
----
-
-## 🧾 Summary Table
-
-```mermaid
-classDiagram
-  class Var {
-    +Function Scope
-    +Hoisted (undefined)
-    +Redeclarable
-    +Reassignable
-  }
-
-  class Let {
-    +Block Scope
-    +Hoisted (TDZ)
-    -Redeclarable
-    +Reassignable
-  }
-
-  class Const {
-    +Block Scope
-    +Hoisted (TDZ)
-    -Redeclarable
-    -Reassignable
-    +Mutable (objects)
-  }
-
-  Var <|-- Let
-  Let <|-- Const
-```
-
----
-
 ## ✅ Best Practice Flow
 
 ```mermaid
