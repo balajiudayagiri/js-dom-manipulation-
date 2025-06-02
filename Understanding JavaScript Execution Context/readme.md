@@ -24,7 +24,6 @@ Each context has:
 
 Here's a Mermaid diagram to visualize the **Execution Context**, **Call Stack**, and **JavaScript Engine flow**:
 
-````markdown
 ```mermaid
 graph TD
     JS_Engine[JavaScript Engine]
@@ -52,7 +51,6 @@ graph TD
         CallStack
     end
 ```
-````
 
 ---
 
