@@ -178,7 +178,3 @@ graph TD
 | Immediately Invoked Function Expression (IIFE) | `(function() { ... })()`             | No      | Dynamic                    | Creates isolated scope immediately                          |
 
 ---
-
-If you want, I can also generate these diagrams as **standalone Mermaid files** or **embedded in a markdown file** ready for blogging or documentation.
-
-Would you like me to do that next? Or dive deeper into any function topic with code + diagrams?
