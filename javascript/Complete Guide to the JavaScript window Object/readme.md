@@ -66,63 +66,53 @@ The `window` object has other useful properties that allow you to interact with 
 Here’s a visual representation of the **JavaScript `window` object** and its key components in the form of a **Mind Map**:
 
 ```mermaid
-mindmap
-  root((JavaScript Window Object))
-    Properties
-      window
-        Represents the global window object
-      window.document
-        Refers to the document object
-      window.location
-        Provides information about the URL of the current document
-      window.history
-        Allows navigation through the browser’s history
-      window.localStorage
-        Allows access to the local storage of the browser
-      window.sessionStorage
-        Stores data for the duration of the page session
-      window.console
-        Provides access to the browser's console for debugging
-      window.innerWidth
-        Returns the width of the window's content area
-      window.innerHeight
-        Returns the height of the window's content area
-    Methods
-      ["window.alert()"]
-        Displays an alert dialog
-      ["window.confirm()"]
-        Displays a confirmation dialog
-      ["window.prompt()"]
-        Displays a prompt dialog for user input
-      ["window.open()"]
-        Opens a new browser window or tab
-      ["window.close()"]
-        Closes the current browser window
-      ["window.setTimeout()"]
-        Sets a timer to execute a function once after a specified time
-      ["window.setInterval()"]
-        Sets a timer to execute a function repeatedly with a fixed time delay
-      ["window.clearTimeout()"]
-        ["Clears a timeout set with `setTimeout()`"]
-      ["window.clearInterval()"]
-        ["Clears an interval set with `setInterval()`"]
-    Events
-      window.onload
-        Fired when the page has fully loaded
-      window.resize
-        Fired when the window is resized
-      window.scroll
-        Fired when the user scrolls the page
-      window.beforeunload
-        Fired before the window is closed or navigated away from
-    Other Features
-      window.frames
-        Provides access to all the `<iframe>` elements in the window
-      window.screen
-        Provides information about the screen (e.g., resolution)
-      window.navigator
-        Provides information about the browser and operating system
+flowchart TD
+    A["JavaScript Window Object"]
+    A1["Properties"]
+    A2["Methods"]
+    A3["Events"]
+    A4["Other Features"]
 
+    A --> A1
+    A --> A2
+    A --> A3
+    A --> A4
+
+    %% Properties
+    A1 --> A1a["window"]
+    A1 --> A1b["window.document"]
+    A1 --> A1c["window.location"]
+    A1 --> A1d["window.history"]
+    A1 --> A1e["window.localStorage"]
+    A1 --> A1f["window.sessionStorage"]
+    A1 --> A1g["window.console"]
+    A1 --> A1h["window.innerWidth"]
+    A1 --> A1i["window.innerHeight"]
+
+    %% Methods
+    A2 --> A2a["window.alert()"]
+    A2 --> A2b["window.confirm()"]
+    A2 --> A2c["window.prompt()"]
+    A2 --> A2d["window.open()"]
+    A2 --> A2e["window.close()"]
+    A2 --> A2f["window.setTimeout()"]
+    A2 --> A2g["window.setInterval()"]
+    A2 --> A2h["window.clearTimeout()"]
+
+    %% Events
+    A3 --> A3a["window.onload"]
+    A3 --> A3b["window.resize"]
+    A3 --> A3c["window.scroll"]
+    A3 --> A3d["window.beforeunload"]
+    A3 --> A3e["window.focus"]
+    A3 --> A3f["window.blur"]
+    A3 --> A3g["window.unload"]
+
+    %% Other Features
+    A4 --> A4a["window.frames"]
+    A4 --> A4b["window.screen"]
+    A4 --> A4c["window.navigator"]
+    A4 --> A4d["window.performance"]
 
 ```
 

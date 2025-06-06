@@ -241,26 +241,6 @@ flowchart TB
   H --> J
   I --> K
 
-  %% Style nodes in Call Stack with soft blue tones
-  style A fill:#BBDEFB,stroke:#0D47A1,stroke-width:2px;
-  style B fill:#BBDEFB,stroke:#0D47A1,stroke-width:2px;
-  style C fill:#BBDEFB,stroke:#0D47A1,stroke-width:2px;
-
-  %% Style nodes in Event Queue with light yellow tones
-  style D fill:#FFF9C4,stroke:#F57F17,stroke-width:2px;
-  style E fill:#FFF9C4,stroke:#F57F17,stroke-width:2px;
-  style F fill:#FFF9C4,stroke:#F57F17,stroke-width:2px;
-
-  %% Style nodes in Event Loop with gentle green hues
-  style G fill:#C8E6C9,stroke:#1B5E20,stroke-width:2px;
-
-  %% Style nodes in Microtasks vs. Macrotasks with calm purple shades
-  style H fill:#E1BEE7,stroke:#6A1B9A,stroke-width:2px;
-  style I fill:#E1BEE7,stroke:#6A1B9A,stroke-width:2px;
-
-  %% Style nodes in Asynchronous Programming with neutral tones
-  style J fill:#F1F8E9,stroke:#33691E,stroke-width:2px;
-  style K fill:#F1F8E9,stroke:#33691E,stroke-width:2px;
 ```
 
 ## **8. Conclusion**
