@@ -103,10 +103,10 @@ In this example:
 
 ```mermaid
 graph TD
-  A[Click on Target Element] --> B[Target Element (Event Triggered)]
+  A[Click on Target Element] --> B["Target Element (Event Triggered)"]
   B --> C[Parent Element]
   C --> D[Grandparent Element]
-  D --> E[Document (Root Element)]
+  D --> E["Document (Root Element)"]
 ```
 
 In this **Event Bubbling** diagram:
@@ -119,10 +119,10 @@ In this **Event Bubbling** diagram:
 
 ```mermaid
 graph TD
-  A[Click on Target Element] --> E[Document (Root Element)]
+  A[Click on Target Element] --> E["Document (Root Element)"]
   E --> D[Grandparent Element]
   D --> C[Parent Element]
-  C --> B[Target Element (Event Triggered)]
+  C --> B["Target Element (Event Triggered)"]
 ```
 
 In this **Event Capturing** diagram:
