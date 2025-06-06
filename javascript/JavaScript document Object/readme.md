@@ -302,65 +302,44 @@ You can traverse and manipulate the DOM tree to move between nodes.
 ---
 
 ```mermaid
-mindmap
-  root((JavaScript Document Object))
-    Accessing Elements
-      getElementById
-        Select by `id`
-      getElementsByClassName
-        Select by `class` name
-      getElementsByTagName
-        Select by `tag` name
-      querySelector
-        Select with CSS selectors
-      querySelectorAll
-        Select all matching elements
-    Manipulating Elements
-      textContent
-        Change the text inside an element
-      innerHTML
-        Change the HTML content inside an element
-      style
-        Modify inline styles
-      setAttribute
-        Set an attribute
-      getAttribute
-        Get an attribute
-      classList
-        Add, remove, or toggle classes
-    Creating Elements
-      createElement
-        Dynamically create new elements
-      appendChild
-        Add new elements to the DOM
-      insertBefore
-        Insert element before another
-    Event Handling
-      addEventListener
-        Attach event listeners
-      removeEventListener
-        Remove event listeners
-      Event Delegation
-        Attach event listener to parent for child events
-    Modifying the Document
-      title
-        Modify the document title
-      body
-        Access or modify body
-      cookie
-        Get and set cookies
-      documentElement
-        Access root element
-      referrer
-        Get the document referrer
-    Browser Window Info
-      document.URL
-        Get current URL
-      document.cookie
-        Get cookies
-      document.documentElement.scrollTop
-        Control scrolling
-
+flowchart TD
+    A["document Object"] --> B["Selecting Elements"]
+    A --> C["Manipulating Elements"]
+    A --> D["Event Handling"]
+    A --> E["Working with Forms"]
+    A --> F["Document Information"]
+    
+    B --> B1["getElementById"]
+    B --> B2["getElementsByClassName"]
+    B --> B3["getElementsByTagName"]
+    B --> B4["querySelector"]
+    B --> B5["querySelectorAll"]
+    
+    C --> C1["Change Text Content"]
+    C --> C2["Change HTML Content"]
+    C --> C3["Change Inline Styles"]
+    C --> C4["Set/Get Attributes"]
+    C --> C5["Add/Remove Classes"]
+    
+    D --> D1["Add Event Listener"]
+    D --> D2["Remove Event Listener"]
+    D --> D3["Event Delegation"]
+    
+    E --> E1["Access Form Inputs"]
+    E --> E2["Submit Form Programmatically"]
+    
+    F --> F1["Get Current URL"]
+    F --> F2["Get Referrer"]
+    F --> F3["Get Cookies"]
+    F --> F4["Control Scrolling"]
+    
+    %% Styling
+    style A fill:#f9f,stroke:#333,stroke-width:2px
+    style B fill:#ccf,stroke:#333,stroke-width:2px
+    style C fill:#cfc,stroke:#333,stroke-width:2px
+    style D fill:#ffcc00,stroke:#333,stroke-width:2px
+    style E fill:#ff6666,stroke:#333,stroke-width:2px
+    style F fill:#66ccff,stroke:#333,stroke-width:2px
 ```
 
 ## **Conclusion**
