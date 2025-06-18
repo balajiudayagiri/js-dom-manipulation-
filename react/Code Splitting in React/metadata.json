@@ -1,0 +1,21 @@
+{
+  "title": "Code Splitting in React",
+  "description": "A comprehensive guide to implementing code splitting in React applications, covering React.lazy, Suspense, dynamic imports, route-based splitting, and webpack optimization techniques with practical examples.",
+  "tags": [
+    "React",
+    "code splitting",
+    "React.lazy",
+    "Suspense",
+    "dynamic imports",
+    "webpack",
+    "performance optimization",
+    "lazy loading",
+    "route splitting",
+    "bundle optimization"
+  ],
+  "difficulty": "intermediate",
+  "category": "React",
+  "author": "GitHub Copilot",
+  "created": "2024-01-18",
+  "lastUpdated": "2024-01-18"
+}

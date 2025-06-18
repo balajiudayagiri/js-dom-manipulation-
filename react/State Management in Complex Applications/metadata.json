@@ -1,0 +1,22 @@
+{
+  "title": "State Management in Complex React Applications",
+  "description": "A comprehensive guide to React state management approaches covering local state, global state with Context API, Redux, Zustand, and best practices with detailed examples and mermaid diagrams.",
+  "tags": [
+    "React",
+    "state management",
+    "useState",
+    "Context API",
+    "Redux",
+    "Zustand",
+    "global state",
+    "local state",
+    "Redux Toolkit",
+    "hooks",
+    "mermaid diagrams"
+  ],
+  "difficulty": "advanced",
+  "category": "React",
+  "author": "GitHub Copilot",
+  "created": "2024-01-18",
+  "lastUpdated": "2024-01-18"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Next.js: From Fundamentals to Mastery",
+  "description": "A comprehensive guide to Next.js fundamentals including App Router, layouts, server/client components, data fetching, deployment, and modern features with mermaid diagrams and code examples.",
+  "tags": [
+    "Next.js",
+    "React",
+    "App Router",
+    "server components",
+    "client components",
+    "data fetching",
+    "routing",
+    "layouts",
+    "deployment",
+    "SSR",
+    "SSG",
+    "mermaid diagrams"
+  ],
+  "difficulty": "intermediate",
+  "category": "Next.js",
+  "author": "GitHub Copilot",
+  "created": "2024-01-18",
+  "lastUpdated": "2024-01-18"
+}

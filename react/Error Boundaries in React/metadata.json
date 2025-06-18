@@ -1,0 +1,22 @@
+{
+  "title": "Error Boundaries in React",
+  "description": "A comprehensive guide to implementing Error Boundaries in React applications, covering error handling patterns, fallback UIs, logging strategies, and best practices with mermaid diagrams and practical examples.",
+  "tags": [
+    "React",
+    "error boundaries",
+    "error handling",
+    "class components",
+    "componentDidCatch",
+    "getDerivedStateFromError",
+    "fallback UI",
+    "error logging",
+    "debugging",
+    "mermaid diagrams",
+    "production error handling"
+  ],
+  "difficulty": "intermediate",
+  "category": "React",
+  "author": "GitHub Copilot",
+  "created": "2024-01-18",
+  "lastUpdated": "2024-01-18"
+}

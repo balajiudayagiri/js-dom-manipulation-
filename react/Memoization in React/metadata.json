@@ -1,0 +1,22 @@
+{
+  "title": "Memoization in React: A Complete Guide",
+  "description": "A comprehensive guide to React memoization techniques covering useMemo, useCallback, React.memo, performance optimization strategies, and best practices with mermaid diagrams and practical examples.",
+  "tags": [
+    "React",
+    "memoization",
+    "useMemo",
+    "useCallback",
+    "React.memo",
+    "performance optimization",
+    "component rendering",
+    "state management",
+    "hooks",
+    "reference equality",
+    "mermaid diagrams"
+  ],
+  "difficulty": "advanced",
+  "category": "React",
+  "author": "GitHub Copilot",
+  "created": "2024-01-18",
+  "lastUpdated": "2024-01-18"
+}

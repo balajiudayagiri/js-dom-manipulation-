@@ -1,0 +1,22 @@
+{
+  "title": "Context API in React",
+  "description": "A comprehensive guide to React's Context API, covering state management, providers, consumers, useContext hook, performance optimization, and best practices with practical examples and mermaid diagrams.",
+  "tags": [
+    "React",
+    "Context API",
+    "state management",
+    "useContext",
+    "providers",
+    "consumers",
+    "prop drilling",
+    "global state",
+    "hooks",
+    "performance optimization",
+    "mermaid diagrams"
+  ],
+  "difficulty": "intermediate",
+  "category": "React",
+  "author": "GitHub Copilot",
+  "created": "2024-01-18",
+  "lastUpdated": "2024-01-18"
+}

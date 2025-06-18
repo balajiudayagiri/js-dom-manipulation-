@@ -1,0 +1,23 @@
+{
+  "title": "Guide to Understanding Search Engines",
+  "description": "A comprehensive guide explaining how search engines work, covering crawling, indexing, ranking algorithms, and major Google updates like Panda, Penguin, Hummingbird, RankBrain, and BERT.",
+  "tags": [
+    "SEO",
+    "search engines",
+    "crawling",
+    "indexing",
+    "ranking algorithms",
+    "Google updates",
+    "Panda",
+    "Penguin",
+    "Hummingbird",
+    "RankBrain",
+    "BERT",
+    "algorithm updates"
+  ],
+  "difficulty": "intermediate",
+  "category": "SEO",
+  "author": "GitHub Copilot",
+  "created": "2024-01-18",
+  "lastUpdated": "2024-01-18"
+}

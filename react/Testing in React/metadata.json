@@ -1,0 +1,22 @@
+{
+  "title": "Testing in React: A Comprehensive Guide",
+  "description": "A detailed guide to testing React applications covering Jest, React Testing Library, component testing, mocking, snapshot testing, and best practices with practical code examples.",
+  "tags": [
+    "React",
+    "testing",
+    "Jest",
+    "React Testing Library",
+    "unit testing",
+    "integration testing",
+    "snapshot testing",
+    "mocking",
+    "test driven development",
+    "component testing",
+    "accessibility testing"
+  ],
+  "difficulty": "intermediate",
+  "category": "React",
+  "author": "GitHub Copilot",
+  "created": "2024-01-18",
+  "lastUpdated": "2024-01-18"
+}

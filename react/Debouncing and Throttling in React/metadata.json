@@ -1,0 +1,22 @@
+{
+  "title": "Debouncing and Throttling in React",
+  "description": "A comprehensive guide to implementing debouncing and throttling in React applications, covering performance optimization, custom hooks, lodash integration, and practical examples with detailed comparisons.",
+  "tags": [
+    "React",
+    "debouncing",
+    "throttling",
+    "performance optimization",
+    "custom hooks",
+    "lodash",
+    "event handling",
+    "useEffect",
+    "useState",
+    "search optimization",
+    "scroll events"
+  ],
+  "difficulty": "intermediate",
+  "category": "React",
+  "author": "GitHub Copilot",
+  "created": "2024-01-18",
+  "lastUpdated": "2024-01-18"
+}

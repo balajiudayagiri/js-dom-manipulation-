@@ -1,0 +1,23 @@
+{
+  "title": "Component Lifecycle in React (Functional and Class Components)",
+  "description": "A comprehensive guide comparing component lifecycles in React class and functional components, covering lifecycle methods, hooks, side effects, and best practices with detailed examples and comparisons.",
+  "tags": [
+    "React",
+    "component lifecycle",
+    "class components",
+    "functional components",
+    "hooks",
+    "useEffect",
+    "useState",
+    "mounting",
+    "updating",
+    "unmounting",
+    "side effects",
+    "lifecycle methods"
+  ],
+  "difficulty": "intermediate",
+  "category": "React",
+  "author": "GitHub Copilot",
+  "created": "2024-01-18",
+  "lastUpdated": "2024-01-18"
+}

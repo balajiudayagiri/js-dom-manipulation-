@@ -1,0 +1,22 @@
+{
+  "title": "Form Validation in React",
+  "description": "A comprehensive guide to implementing form validation in React, covering basic validation, custom rules, real-time validation with useEffect, and integration with popular form libraries like Formik and Yup.",
+  "tags": [
+    "React",
+    "form validation",
+    "useState",
+    "useEffect",
+    "controlled components",
+    "Formik",
+    "Yup",
+    "React Hook Form",
+    "real-time validation",
+    "custom validation",
+    "form handling"
+  ],
+  "difficulty": "intermediate",
+  "category": "React",
+  "author": "GitHub Copilot",
+  "created": "2024-01-18",
+  "lastUpdated": "2024-01-18"
+}

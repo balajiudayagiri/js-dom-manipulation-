@@ -1,0 +1,24 @@
+{
+  "title": "Hooks in React: A Comprehensive Guide",
+  "description": "An extensive guide covering all core React hooks including useState, useEffect, useContext, useReducer, useRef, useMemo, useCallback, and custom hooks with detailed examples and best practices.",
+  "tags": [
+    "React",
+    "hooks",
+    "useState",
+    "useEffect",
+    "useContext",
+    "useReducer",
+    "useRef",
+    "useMemo",
+    "useCallback",
+    "custom hooks",
+    "state management",
+    "side effects",
+    "memoization"
+  ],
+  "difficulty": "intermediate",
+  "category": "React",
+  "author": "GitHub Copilot",
+  "created": "2024-01-18",
+  "lastUpdated": "2024-01-18"
+}

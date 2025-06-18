@@ -1,0 +1,22 @@
+{
+  "title": "Higher-Order Components (HOCs) in React",
+  "description": "A comprehensive guide to Higher-Order Components in React, covering implementation patterns, composition, authentication, logging, conditional rendering, and best practices with detailed examples.",
+  "tags": [
+    "React",
+    "HOCs",
+    "Higher-Order Components",
+    "component composition",
+    "authentication",
+    "conditional rendering",
+    "props management",
+    "component enhancement",
+    "code reusability",
+    "design patterns",
+    "lifecycle methods"
+  ],
+  "difficulty": "advanced",
+  "category": "React",
+  "author": "GitHub Copilot",
+  "created": "2024-01-18",
+  "lastUpdated": "2024-01-18"
+}

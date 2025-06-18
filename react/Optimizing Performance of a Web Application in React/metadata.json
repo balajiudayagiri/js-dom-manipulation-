@@ -1,0 +1,24 @@
+{
+  "title": "Optimizing Performance of a Web Application in React",
+  "description": "A comprehensive guide to React performance optimization covering rendering, code splitting, lazy loading, state management, virtualization, SSR/SSG, and more with detailed examples and mermaid diagrams.",
+  "tags": [
+    "React",
+    "performance optimization",
+    "code splitting",
+    "lazy loading",
+    "memoization",
+    "React.memo",
+    "virtualization",
+    "SSR",
+    "SSG",
+    "web vitals",
+    "state management",
+    "image optimization",
+    "mermaid diagrams"
+  ],
+  "difficulty": "advanced",
+  "category": "React",
+  "author": "GitHub Copilot",
+  "created": "2024-01-18",
+  "lastUpdated": "2024-01-18"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "React Interview Preparation: Comprehensive Study Notes",
+  "description": "A comprehensive guide covering essential React concepts, comparisons with other frameworks, performance optimization, component lifecycle, hooks, state management, and best practices with detailed code examples.",
+  "tags": [
+    "React",
+    "interview preparation",
+    "Virtual DOM",
+    "performance optimization",
+    "hooks",
+    "state management",
+    "component lifecycle",
+    "context API",
+    "Redux",
+    "code splitting",
+    "error boundaries",
+    "SSR",
+    "testing",
+    "best practices"
+  ],
+  "difficulty": "advanced",
+  "category": "React",
+  "author": "GitHub Copilot",
+  "created": "2024-01-18",
+  "lastUpdated": "2024-01-18"
+}

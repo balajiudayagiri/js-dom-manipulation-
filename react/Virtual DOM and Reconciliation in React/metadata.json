@@ -1,0 +1,22 @@
+{
+  "title": "Virtual DOM and Reconciliation in React",
+  "description": "A comprehensive guide to React's Virtual DOM and Reconciliation process, covering optimization techniques, diffing algorithms, component updates, and performance best practices with mermaid diagrams.",
+  "tags": [
+    "React",
+    "Virtual DOM",
+    "Reconciliation",
+    "performance optimization",
+    "diffing algorithm",
+    "component updates",
+    "React.memo",
+    "shouldComponentUpdate",
+    "key props",
+    "DOM manipulation",
+    "mermaid diagrams"
+  ],
+  "difficulty": "advanced",
+  "category": "React",
+  "author": "GitHub Copilot",
+  "created": "2024-01-18",
+  "lastUpdated": "2024-01-18"
+}

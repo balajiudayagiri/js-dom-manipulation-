@@ -1,0 +1,23 @@
+{
+  "title": "Optimizing React App Performance with Large Lists",
+  "description": "A comprehensive guide to optimizing React applications with large lists using virtualization, memoization, lazy loading, efficient key usage, and performance best practices with mermaid diagrams and code examples.",
+  "tags": [
+    "React",
+    "performance optimization",
+    "virtualization",
+    "react-window",
+    "react-virtualized",
+    "memoization",
+    "lazy loading",
+    "intersection observer",
+    "key management",
+    "list rendering",
+    "scroll performance",
+    "mermaid diagrams"
+  ],
+  "difficulty": "advanced",
+  "category": "React",
+  "author": "GitHub Copilot",
+  "created": "2024-01-18",
+  "lastUpdated": "2024-01-18"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Routing in React: A Comprehensive Guide",
+  "description": "A detailed guide to React Router covering basic and advanced routing concepts, including dynamic routes, nested routing, lazy loading, programmatic navigation, and best practices with code examples.",
+  "tags": [
+    "React",
+    "React Router",
+    "routing",
+    "dynamic routes",
+    "nested routes",
+    "lazy loading",
+    "useHistory",
+    "useParams",
+    "route protection",
+    "programmatic navigation",
+    "code splitting"
+  ],
+  "difficulty": "intermediate",
+  "category": "React",
+  "author": "GitHub Copilot",
+  "created": "2024-01-18",
+  "lastUpdated": "2024-01-18"
+}
