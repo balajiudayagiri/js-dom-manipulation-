@@ -1,0 +1,18 @@
+{
+  "title": "Complete Guide to the JavaScript window Object",
+  "description": "This guide provides a comprehensive overview of the JavaScript window object, which represents the browser window and serves as the global object in client-side JavaScript. It covers properties, methods, and events associated with the window object, including how to manipulate the browser's UI, handle events, and manage timers.",
+  "tags": [
+    "window object",
+    "JavaScript",
+    "browser",
+    "global object",
+    "UI manipulation",
+    "events",
+    "timers"
+  ],
+  "difficulty": "intermediate",
+  "category": "JavaScript",
+  "author": "Balaji Udayagiri",
+  "created": "2024-06-18",
+  "lastUpdated": "2024-06-18"
+}
