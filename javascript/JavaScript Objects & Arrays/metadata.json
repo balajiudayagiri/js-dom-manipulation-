@@ -1,0 +1,21 @@
+{
+  "title": "JavaScript Objects & Arrays: Complete Guide",
+  "description": "A comprehensive guide covering JavaScript objects and arrays, including object literals, destructuring, array methods, spread/rest operators, and copying techniques with mermaid diagrams and practical examples.",
+  "tags": [
+    "JavaScript",
+    "objects",
+    "arrays",
+    "destructuring",
+    "array methods",
+    "spread operator",
+    "rest operator",
+    "shallow copy",
+    "deep copy",
+    "mermaid diagrams"
+  ],
+  "difficulty": "intermediate",
+  "category": "JavaScript",
+  "author": "Balaji Udayagiri",
+  "created": "2024-01-18",
+  "lastUpdated": "2024-01-18"
+}

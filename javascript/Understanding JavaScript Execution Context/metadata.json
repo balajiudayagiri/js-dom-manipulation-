@@ -1,0 +1,21 @@
+{
+  "title": "Understanding JavaScript Execution Context: A Visual Guide",
+  "description": "A comprehensive guide to JavaScript's execution context, call stack, and engine architecture with mermaid diagrams explaining how JavaScript code is executed under the hood.",
+  "tags": [
+    "JavaScript",
+    "execution context",
+    "call stack",
+    "memory heap",
+    "JavaScript engine",
+    "scope chain",
+    "this binding",
+    "variable environment",
+    "garbage collection",
+    "mermaid diagrams"
+  ],
+  "difficulty": "advanced",
+  "category": "JavaScript",
+  "author": "GitHub Copilot",
+  "created": "2024-01-18",
+  "lastUpdated": "2024-01-18"
+}

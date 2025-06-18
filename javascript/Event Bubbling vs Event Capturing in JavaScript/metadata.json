@@ -1,0 +1,20 @@
+{
+  "title": "Event Bubbling vs. Event Capturing in JavaScript",
+  "description": "A comprehensive guide explaining event propagation in JavaScript, covering event bubbling and capturing phases, with detailed examples, diagrams, and best practices for handling DOM events.",
+  "tags": [
+    "JavaScript",
+    "DOM",
+    "event bubbling",
+    "event capturing",
+    "event propagation",
+    "event handling",
+    "addEventListener",
+    "stopPropagation",
+    "DOM events"
+  ],
+  "difficulty": "intermediate",
+  "category": "JavaScript",
+  "author": "Balaji Udayagiri",
+  "created": "2024-01-18",
+  "lastUpdated": "2024-01-18"
+}

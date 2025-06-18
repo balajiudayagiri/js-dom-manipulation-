@@ -1,0 +1,21 @@
+{
+  "title": "JavaScript document Object Guide",
+  "description": "A comprehensive guide to the JavaScript document object, covering DOM manipulation, element selection, event handling, form management, and document traversal with detailed examples and mermaid diagrams.",
+  "tags": [
+    "JavaScript",
+    "DOM",
+    "document object",
+    "element selection",
+    "event handling",
+    "DOM manipulation",
+    "forms",
+    "querySelector",
+    "getElementById",
+    "addEventListener"
+  ],
+  "difficulty": "intermediate",
+  "category": "JavaScript",
+  "author": "Balaji Udayagiri",
+  "created": "2024-01-18",
+  "lastUpdated": "2024-01-18"
+}

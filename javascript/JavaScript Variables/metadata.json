@@ -1,0 +1,22 @@
+{
+  "title": "JavaScript Variables Guide: var, let, and const",
+  "description": "A comprehensive guide to JavaScript variables covering scope, hoisting, temporal dead zone (TDZ), and best practices with visual mermaid diagrams and practical examples.",
+  "tags": [
+    "JavaScript",
+    "variables",
+    "var",
+    "let",
+    "const",
+    "scope",
+    "hoisting",
+    "TDZ",
+    "block scope",
+    "function scope",
+    "mermaid diagrams"
+  ],
+  "difficulty": "beginner",
+  "category": "JavaScript",
+  "author": "GitHub Copilot",
+  "created": "2024-01-18",
+  "lastUpdated": "2024-01-18"
+}

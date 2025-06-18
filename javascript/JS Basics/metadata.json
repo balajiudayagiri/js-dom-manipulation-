@@ -1,0 +1,21 @@
+{
+  "title": "JavaScript Basics: A Visual Guide",
+  "description": "A comprehensive guide to JavaScript fundamentals including variables, data types, operators, conditionals, and loops with visual mermaid diagrams and practical code examples.",
+  "tags": [
+    "JavaScript",
+    "basics",
+    "variables",
+    "data types",
+    "operators",
+    "conditionals",
+    "loops",
+    "mermaid diagrams",
+    "control flow",
+    "programming fundamentals"
+  ],
+  "difficulty": "beginner",
+  "category": "JavaScript",
+  "author": "GitHub Copilot",
+  "created": "2024-01-18",
+  "lastUpdated": "2024-01-18"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Understanding the Event Loop in JavaScript",
+  "description": "A comprehensive guide to JavaScript's Event Loop mechanism, covering call stack, event queue, micro/macrotasks, asynchronous operations, and practical examples with mermaid diagrams.",
+  "tags": [
+    "JavaScript",
+    "Event Loop",
+    "asynchronous programming",
+    "call stack",
+    "event queue",
+    "microtasks",
+    "macrotasks",
+    "promises",
+    "setTimeout",
+    "non-blocking I/O"
+  ],
+  "difficulty": "advanced",
+  "category": "JavaScript",
+  "author": "Balaji Udayagiri",
+  "created": "2024-01-18",
+  "lastUpdated": "2024-01-18"
+}

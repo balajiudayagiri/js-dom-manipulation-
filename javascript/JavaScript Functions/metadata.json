@@ -1,0 +1,21 @@
+{
+  "title": "JavaScript Functions: Complete Guide",
+  "description": "A comprehensive guide to JavaScript functions covering declarations, expressions, arrow functions, higher-order functions, closures, callbacks, and IIFEs with detailed explanations and mermaid diagrams.",
+  "tags": [
+    "JavaScript",
+    "functions",
+    "arrow functions",
+    "closures",
+    "callbacks",
+    "IIFE",
+    "higher-order functions",
+    "function declarations",
+    "function expressions",
+    "mermaid diagrams"
+  ],
+  "difficulty": "intermediate",
+  "category": "JavaScript",
+  "author": "Balaji Udayagiri",
+  "created": "2024-01-18",
+  "lastUpdated": "2024-01-18"
+}

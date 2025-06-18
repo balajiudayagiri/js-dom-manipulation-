@@ -1,0 +1,17 @@
+{
+  "title": "Comprehensive Guide to the JavaScript Engine",
+  "description": "A detailed exploration of the JavaScript engine, covering its architecture, execution model, and optimization techniques. This guide delves into how JavaScript engines like V8 and SpiderMonkey work, including their parsing, compilation, and execution processes. It also discusses the role of Just-In-Time (JIT) compilation and how engines optimize code for performance.",
+  "tags": [
+    "JavaScript engine",
+    "execution model",
+    "optimization",
+    "V8",
+    "SpiderMonkey",
+    "JavaScript runtime"
+  ],
+  "difficulty": "advanced",
+  "category": "JavaScript",
+  "author": "Balaji Udayagiri",
+  "created": "2024-06-18",
+  "lastUpdated": "2024-06-18"
+}
